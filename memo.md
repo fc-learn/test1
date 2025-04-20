@@ -9,3 +9,4 @@
 5. その続き
 6. VSCode から Push の仕方
 7. commit する
+8. push and pull
